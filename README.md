@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![animated](https://raw.githubusercontent.com/donavon/donavon/master/img/readme.svg)](https://dwe.st/rr)
+[![animated](https://kudosgan.github.io/Flags_Cards_WikiWorld)](https://dwe.st/rr)
 https://kudosgan.github.io/Flags_Cards_WikiWorld/
 <div align="center">
     <br>
