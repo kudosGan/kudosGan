@@ -2,9 +2,9 @@
 
 <p align="center">
   <br>
-    <img src="https://image.ibb.co/cZ1q5f/awesome.jpg" />
+    <img src=" https://kudosgan.github.io/La_vie_Canadianne/image/robo/robots.jpg" />
   
-   https://kudosgan.github.io/La_vie_Canadianne/
+   https://kudosgan.github.io/La_vie_Canadianne/image/robo/robots.jpg
   <br>
   <br>
   <br>
