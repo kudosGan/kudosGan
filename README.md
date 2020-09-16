@@ -4,6 +4,8 @@
   <br>
     <img src=" https://kudosgan.github.io/La_vie_Canadianne/image/robo/robots.jpg" />
   
+  [![animated](https://raw.githubusercontent.com/donavon/donavon/master/img/readme.svg)](https://dwe.st/rr)
+  
    https://kudosgan.github.io/La_vie_Canadianne/image/robo/robots.jpg
   <br>
   <br>
