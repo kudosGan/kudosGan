@@ -31,16 +31,6 @@
     <br>
 </div>
 
----
-
-**Now Playing** on Spotify
-
-<a href="https://status.nmoo.dev/now-playing?open">
-    <img src="https://status.nmoo.dev/now-playing" width="256" height="64" alt="Now Playing">
-</a>
-
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Trash recognition CNN
