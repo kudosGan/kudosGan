@@ -2,7 +2,7 @@
 
 <p align="center">
   <br>
-    <img src=" https://kudosgan.github.io/La_vie_Canadianne/image/robo/robots.jpg" />
+    <img src=" https://kudosgan.github.io/La_vie_Canadianne/image/robo/robot25(1).jpg" />
   
 
   
