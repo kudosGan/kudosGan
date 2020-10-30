@@ -2,11 +2,11 @@
 
 <p align="center">
   <br>
-    <img src=" https://kudosgan.github.io/La_vie_Canadianne/image/robo/robot25(1).jpg" />
+    <img src=" https://kudosgan.github.io/La_vie_Canadianne/image/robo/robot2.jpg" />
   
 
   
-   https://kudosgan.github.io/La_vie_Canadianne/image/robo/robots.jpg
+   
   <br>
   <br>
   <br>
